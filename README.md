@@ -8,12 +8,15 @@
 
 <br>
   
-## 🚀 GitHub 미션 제출 방법
+## 🚀 GitHub 미션 제출 방법 및 피어 리뷰
 1. 본인의 닉네임으로 새 브랜치를 만들어 주세요.
 2. 이 레포지토리를 본인 계정으로 Fork 합니다.
 3. Fork한 레포지토리에 미션 결과물을 올립니다.
 4. 본인 레포지토리에서 SKU-UMC 레포지토리의 닉네임 브랜치로 Pull Request(PR)를 보내면 끝!
 - [SKU UMC GitHub 미션 제출 가이드](https://flash-oregano-bbe.notion.site/GitHub-3027f28c50e680db96e1ed1fd02c7232)
+
+### 피어 리뷰 (화살표 방향으로 리뷰를 달아주세요) 
+- 신정우A → 이충환B → 오지우A → 윤기화B → 강동균A → 이정완B → 박수연B → 신정우A
   
 <br>
 
